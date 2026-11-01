@@ -10,6 +10,8 @@ Built a four-VM home lab with a Windows Server, Windows domain, a Splunk SIEM, a
 - Ubuntu Server – Splunk Enterprise
 - Kali Linux – Attacker machine (NetExec)
 
+![Lab Diagram](Lab%20Network%20Diagram/AD%20project%20diagram.drawio.png)
+
 ## Implementation
 - Installed Splunk Enterprise on the Ubuntu Server and configured it so it was able to receive forwarded logs.
 - Installed both Sysmon and Splunk Universal Forwarder on the Windows 10 machine and Windows Server to send endpoint and authentication logs to Splunk.
