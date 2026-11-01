@@ -1,4 +1,4 @@
-# active Directory Splunk Home Lab
+# Active Directory Splunk Home Lab
 A home lab made to practice Active Directory administration, centralized log collection, and security monitoring using Splunk.
 
 ## Objective
